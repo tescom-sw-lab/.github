@@ -1,4 +1,4 @@
-# 🚀 [조직 이름 입력] Dev Team
+# 🚀 [Tescomwireless SW LAB] Dev Team
 
 > **Plugin-driven Monorepo 기반으로 혁신적인 솔루션을 구축합니다.**
 > 우리는 모든 코드의 이력을 추적 가능하게 관리하며, 안정적인 배포 프로세스를 지향합니다.
